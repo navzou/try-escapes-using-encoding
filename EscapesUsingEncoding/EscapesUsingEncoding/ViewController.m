@@ -36,6 +36,8 @@
     
     str = [str stringByReplacingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
     NSLog(@"%@", str);
+    
+    NSLog(@"hello world");
 }
 
 @end
