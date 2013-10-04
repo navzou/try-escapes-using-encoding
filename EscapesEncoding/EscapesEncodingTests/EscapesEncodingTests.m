@@ -1,6 +1,6 @@
 //
-//  EscapesUsingEncodingTests.m
-//  EscapesUsingEncodingTests
+//  EscapesEncodingTests.m
+//  EscapesEncodingTests
 //
 //  Created by navzou on 10/4/13.
 //  Copyright (c) 2013 navzou. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface EscapesUsingEncodingTests : XCTestCase
+@interface EscapesEncodingTests : XCTestCase
 
 @end
 
-@implementation EscapesUsingEncodingTests
+@implementation EscapesEncodingTests
 
 - (void)setUp
 {

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0BC0F7E17FF13D800E7C110"
-               BuildableName = "EscapesUsingEncoding.app"
-               BlueprintName = "EscapesUsingEncoding"
-               ReferencedContainer = "container:EscapesUsingEncoding.xcodeproj">
+               BlueprintIdentifier = "B09E8D9117FF1C820011F40C"
+               BuildableName = "EscapesEncoding.app"
+               BlueprintName = "EscapesEncoding"
+               ReferencedContainer = "container:EscapesEncoding.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,20 +32,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B0BC0F9F17FF13D800E7C110"
-               BuildableName = "EscapesUsingEncodingTests.xctest"
-               BlueprintName = "EscapesUsingEncodingTests"
-               ReferencedContainer = "container:EscapesUsingEncoding.xcodeproj">
+               BlueprintIdentifier = "B09E8DB217FF1C830011F40C"
+               BuildableName = "EscapesEncodingTests.xctest"
+               BlueprintName = "EscapesEncodingTests"
+               ReferencedContainer = "container:EscapesEncoding.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0BC0F7E17FF13D800E7C110"
-            BuildableName = "EscapesUsingEncoding.app"
-            BlueprintName = "EscapesUsingEncoding"
-            ReferencedContainer = "container:EscapesUsingEncoding.xcodeproj">
+            BlueprintIdentifier = "B09E8D9117FF1C820011F40C"
+            BuildableName = "EscapesEncoding.app"
+            BlueprintName = "EscapesEncoding"
+            ReferencedContainer = "container:EscapesEncoding.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -61,10 +61,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0BC0F7E17FF13D800E7C110"
-            BuildableName = "EscapesUsingEncoding.app"
-            BlueprintName = "EscapesUsingEncoding"
-            ReferencedContainer = "container:EscapesUsingEncoding.xcodeproj">
+            BlueprintIdentifier = "B09E8D9117FF1C820011F40C"
+            BuildableName = "EscapesEncoding.app"
+            BlueprintName = "EscapesEncoding"
+            ReferencedContainer = "container:EscapesEncoding.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -79,10 +79,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "B0BC0F7E17FF13D800E7C110"
-            BuildableName = "EscapesUsingEncoding.app"
-            BlueprintName = "EscapesUsingEncoding"
-            ReferencedContainer = "container:EscapesUsingEncoding.xcodeproj">
+            BlueprintIdentifier = "B09E8D9117FF1C820011F40C"
+            BuildableName = "EscapesEncoding.app"
+            BlueprintName = "EscapesEncoding"
+            ReferencedContainer = "container:EscapesEncoding.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

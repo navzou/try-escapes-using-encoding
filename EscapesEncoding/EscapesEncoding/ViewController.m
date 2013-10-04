@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  EscapesUsingEncoding
+//  EscapesEncoding
 //
 //  Created by navzou on 10/4/13.
 //  Copyright (c) 2013 navzou. All rights reserved.
@@ -36,8 +36,6 @@
     
     str = [str stringByReplacingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
     NSLog(@"%@", str);
-    
-    NSLog(@"hello world");
 }
 
 @end

@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>EscapesUsingEncoding.xcscheme</key>
+		<key>EscapesEncoding.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B0BC0F7E17FF13D800E7C110</key>
+		<key>B09E8D9117FF1C820011F40C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B0BC0F9F17FF13D800E7C110</key>
+		<key>B09E8DB217FF1C830011F40C</key>
 		<dict>
 			<key>primary</key>
 			<true/>

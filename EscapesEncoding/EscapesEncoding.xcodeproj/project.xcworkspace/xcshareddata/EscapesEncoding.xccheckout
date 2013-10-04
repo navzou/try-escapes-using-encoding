@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>9819B24D-094A-4B80-89F8-6FB56A5D1D12</string>
+	<string>5B976302-FE76-4134-9DB0-DA879168D6B3</string>
 	<key>IDESourceControlProjectName</key>
-	<string>EscapesUsingEncoding</string>
+	<string>EscapesEncoding</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>51214C48-8345-4C13-8B87-4376DF1C35D2</key>
+		<key>26EE5EFE-F955-4311-84C1-EA5FC21159A6</key>
 		<string>https://github.com/navzou/try-escapes-using-encoding.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>EscapesUsingEncoding/EscapesUsingEncoding.xcodeproj/project.xcworkspace</string>
+	<string>EscapesEncoding/EscapesEncoding.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>51214C48-8345-4C13-8B87-4376DF1C35D2</key>
+		<key>26EE5EFE-F955-4311-84C1-EA5FC21159A6</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>51214C48-8345-4C13-8B87-4376DF1C35D2</string>
+	<string>26EE5EFE-F955-4311-84C1-EA5FC21159A6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>51214C48-8345-4C13-8B87-4376DF1C35D2</string>
+			<string>26EE5EFE-F955-4311-84C1-EA5FC21159A6</string>
 			<key>IDESourceControlWCCName</key>
 			<string>try-escapes-using-encoding</string>
 		</dict>
